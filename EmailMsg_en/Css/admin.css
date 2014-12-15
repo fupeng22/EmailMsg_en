@@ -1,0 +1,85 @@
+﻿/* Designed by chshnren1
+   E-mail:chshnren@163.com */
+
+body {
+	font-size: 12px;
+	margin:0;
+	background-image:url(../images/admin/bkg.gif);
+	font-family: Arial, Helvetica, sans-serif;
+}
+td,th {
+	font-size: 12px;
+}
+a:link {
+	color: #0000FF;
+}
+a:hover {
+	color:#FF0000;
+}
+a:visited {
+	color: #0000FF;
+}
+a:active {
+	color: #0000FF;
+}
+
+
+/* Normal
+   ------ */
+.border_right {
+	border-right:#77AEEE 1px solid;
+	padding-top:15px;
+	padding-left:15px;
+}
+.bgcolor_top {
+	background-color:#CCCCCC;
+}
+.bg_login {
+	background-color:#CCCCCC;
+}
+.da1 {
+	font-weight:bold;
+}
+.font_12 {
+	font-size:12px;
+}
+.font_bold {
+	font-weight:bold;
+}
+.font_bold_12 {
+	font-weight:bold;
+	font-size:12px;
+}
+.gray {
+	color:#999999;
+}
+.gray1 {
+	color:#999999;
+	line-height:150%;
+}
+.italic {
+	font-style:italic;
+}
+.red {
+	color:#FF0000;
+}
+.red_tip {
+	color:#FF0000;
+	font-size:12px;
+}
+.statetip {
+	color:#FF0000;
+	font-weight:bold;
+}
+.title_top {
+	background-color:#A5C8F0;
+	font-weight:bold;
+	font-size:14px;
+	border:#77AEEE 1px solid;
+}
+.td_normal {
+	background-color:#A5C8F0;
+	border:#77AEEE 1px solid;
+	line-height:160%;
+	padding-left:15px;
+}
